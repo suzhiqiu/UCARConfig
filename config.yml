@@ -1,0 +1,4 @@
+CompilePath : '~/Documents/ucar/pods'
+UCARRobot : 'https://github.com/suzhiqiu/UCARRobot.git'
+config_url: https://github.com/suzhiqiu/UCARRobot/blob/master/config.yml
+config_url: https://github.com/suzhiqiu/UCARRobot/blob/master/config.yml
